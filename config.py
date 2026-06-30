@@ -29,8 +29,8 @@ SUPPLIERS = {
         "requisites": []
     },
     "bisou": {
-        "name": "Gugusha Bisou",
-        "chat_id": None,
+        "name": "Gugusha Bisou (розовая 1419 ) магазин Киев",
+        "chat_id": -1004235425057,
         "requisites": []
     }
 }
