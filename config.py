@@ -20,12 +20,12 @@ DATABASE_PATH = "supplier_bot.db"
 SUPPLIERS = {
     "gugusha_poliit": {
         "name": "Gugusha-Poliit",
-        "chat_id": None,  # Заполним когда добавим бота в чат
+        "chat_id": -1003956587836,  
         "requisites": []
     },
     "mauri": {
         "name": "Аня Маури та Gugusha_shop",
-        "chat_id": None,
+        "chat_id": -1004280446351,
         "requisites": []
     },
     "bisou": {
